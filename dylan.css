@@ -1,0 +1,402 @@
+.hbg {
+	BACKGROUND-IMAGE: url(//www.ibm.com/i/v11/m/en/lines.gif); BACKGROUND-REPEAT: repeat; BACKGROUND-COLOR: #006699
+}
+.tbg {
+	BACKGROUND-IMAGE: url(//www.ibm.com/i/v11/m/en/gr760.gif); BACKGROUND-COLOR: #006699
+}
+.vertical_gray {
+	BACKGROUND-IMAGE: url(//www.ibm.com/i/v13/dsh_v.gif); BACKGROUND-REPEAT: repeat; BACKGROUND-COLOR: #ffffff
+}
+.tbgc {
+	BACKGROUND-COLOR: #006699
+}
+.bbg {
+	VERTICAL-ALIGN: middle; BACKGROUND-COLOR: #000000
+}
+.dbg {
+	BACKGROUND-COLOR: #6699cc
+}
+.mbg {
+	BACKGROUND-COLOR: #99ccff
+}
+.lbg {
+	BACKGROUND-COLOR: #cce5ff
+}
+.hil {
+	BACKGROUND-COLOR: #ffffff
+}
+.country {
+	FONT-WEIGHT: bold; FONT-SIZE: 10px; COLOR: #99ccff; FONT-FAMILY: Verdana, sans-serif
+}
+.related {
+	FONT-WEIGHT: bold; FONT-SIZE: 12px; COLOR: #ffffff; FONT-FAMILY: Arial, sans-serif
+}
+A:link {
+	COLOR: #FFFFFF
+}
+A:visited {
+	COLOR: #FFFF66
+}
+A:hover {
+	COLOR: #006699
+}
+A.rlinks:link {
+	FONT-SIZE: 12px; COLOR: #ffffff; FONT-FAMILY: Arial, sans-serif; TEXT-DECORATION: none
+}
+A.rlinks:visited {
+	FONT-SIZE: 12px; COLOR: #ffffff; FONT-FAMILY: Arial, sans-serif; TEXT-DECORATION: none
+}
+A.rlinks:hover {
+	FONT-SIZE: 12px; COLOR: #ffffff; FONT-FAMILY: Arial, sans-serif; TEXT-DECORATION: underline
+}
+A.highlight:link {
+	FONT-WEIGHT: bold; FONT-SIZE: 10px; COLOR: #ffcc00; FONT-FAMILY: Verdana, Arial, sans-serif; TEXT-DECORATION: none
+}
+A.highlight:visited {
+	FONT-WEIGHT: bold; FONT-SIZE: 10px; COLOR: #ffcc00; FONT-FAMILY: Verdana, Arial, sans-serif; TEXT-DECORATION: none
+}
+A.highlight:hover {
+	FONT-WEIGHT: bold; FONT-SIZE: 10px; COLOR: #ffcc00; FONT-FAMILY: Verdana, Arial, sans-serif; TEXT-DECORATION: underline
+}
+A.mainlink:link {
+	FONT-WEIGHT: bold; FONT-SIZE: 10px; COLOR: #ffffff; FONT-FAMILY: Verdana, Arial, sans-serif; TEXT-DECORATION: none
+}
+A.mainlink:visited {
+	FONT-WEIGHT: bold; FONT-SIZE: 10px; COLOR: #ffffff; FONT-FAMILY: Verdana, Arial, sans-serif; TEXT-DECORATION: none
+}
+A.mainlink:hover {
+	FONT-WEIGHT: bold; FONT-SIZE: 10px; COLOR: #ffffff; FONT-FAMILY: Verdana, Arial, sans-serif; TEXT-DECORATION: underline
+}
+A.parent:link {
+	FONT-SIZE: 10px; COLOR: #000000; FONT-FAMILY: Verdana, Arial, sans-serif; TEXT-DECORATION: none
+}
+A.parent:visited {
+	FONT-SIZE: 10px; COLOR: #000000; FONT-FAMILY: Verdana, Arial, sans-serif; TEXT-DECORATION: none
+}
+A.parent:hover {
+	FONT-SIZE: 10px; COLOR: #000000; FONT-FAMILY: Verdana, Arial, sans-serif; TEXT-DECORATION: underline
+}
+A.nav:link {
+	FONT-SIZE: 12px; COLOR: #000000; FONT-FAMILY: Arial, sans-serif; TEXT-DECORATION: none
+}
+A.nav:visited {
+	FONT-SIZE: 12px; COLOR: #000000; FONT-FAMILY: Arial, sans-serif; TEXT-DECORATION: none
+}
+A.nav:hover {
+	FONT-SIZE: 12px; COLOR: #000000; FONT-FAMILY: Arial, sans-serif; TEXT-DECORATION: underline
+}
+A.fbox:link {
+	FONT-SIZE: 12px; COLOR: #006699; FONT-FAMILY: Arial, sans-serif; TEXT-DECORATION: none
+}
+A.fbox:visited {
+	FONT-SIZE: 12px; COLOR: #996699; FONT-FAMILY: Arial, sans-serif; TEXT-DECORATION: none
+}
+A.fbox:hover {
+	FONT-SIZE: 12px; COLOR: #006699; FONT-FAMILY: Arial, sans-serif; TEXT-DECORATION: underline
+}
+A.bctl:link {
+	FONT-SIZE: 10px; COLOR: #000000; FONT-FAMILY: Arial, sans-serif; TEXT-DECORATION: none
+}
+A.bctl:visited {
+	FONT-SIZE: 10px; COLOR: #000000; FONT-FAMILY: Arial, sans-serif; TEXT-DECORATION: none
+}
+A.bctl:hover {
+	FONT-SIZE: 10px; COLOR: #000000; FONT-FAMILY: Arial, sans-serif; TEXT-DECORATION: underline
+}
+.divider {
+	FONT-WEIGHT: normal; FONT-SIZE: 10px; COLOR: #999999; FONT-FAMILY: Verdana, Arial, sans-serif
+}
+.input {
+	FONT-WEIGHT: normal; FONT-SIZE: 11px; WIDTH: 150px; COLOR: #000000
+}
+.iform {
+	FONT-WEIGHT: normal; FONT-SIZE: 11px; BACKGROUND: #cccc99; COLOR: #000000; FONT-FAMILY: Arial
+}
+BODY {
+	FONT-SIZE: 12px; FONT-FAMILY: Arial, sans-serif
+}
+P {
+	FONT-SIZE: 12px; FONT-FAMILY: Arial, sans-serif
+}
+B {
+	FONT-SIZE: 12px; FONT-FAMILY: Arial, sans-serif
+}
+I {
+	FONT-SIZE: 12px; FONT-FAMILY: Arial, sans-serif
+}
+STRONG {
+	FONT-SIZE: 12px; FONT-FAMILY: Arial, sans-serif
+}
+EM {
+	FONT-SIZE: 12px; FONT-FAMILY: Arial, sans-serif
+}
+DT {
+	FONT-SIZE: 12px; FONT-FAMILY: Arial, sans-serif
+}
+DD {
+	FONT-SIZE: 12px; FONT-FAMILY: Arial, sans-serif
+}
+DL {
+	FONT-SIZE: 12px; FONT-FAMILY: Arial, sans-serif
+}
+sl {
+	FONT-SIZE: 12px; FONT-FAMILY: Arial, sans-serif
+}
+CAPTION {
+	FONT-SIZE: 12px; FONT-FAMILY: Arial, sans-serif
+}
+TH {
+	FONT-SIZE: 12px; FONT-FAMILY: Arial, sans-serif
+}
+TD {
+	FONT-SIZE: 12px;  COLOR: #ffffff; FONT-FAMILY: Arial, sans-serif
+}
+TR {
+	FONT-SIZE: 12px; FONT-FAMILY: Arial, sans-serif
+}
+U {
+	FONT-SIZE: 12px; FONT-FAMILY: Arial, sans-serif
+}
+BLINK {
+	FONT-SIZE: 12px; FONT-FAMILY: Arial, sans-serif
+}
+SELECT {
+	FONT-SIZE: 12px; FONT-FAMILY: Arial, sans-serif
+}
+OPTION {
+	FONT-SIZE: 12px; FONT-FAMILY: Arial, sans-serif
+}
+FORM {
+	FONT-SIZE: 12px; FONT-FAMILY: Arial, sans-serif
+}
+DIV {
+	FONT-SIZE: 12px; FONT-FAMILY: Arial, sans-serif
+}
+FONT {
+	FONT-SIZE: 12px; FONT-FAMILY: Arial, sans-serif
+}
+LI {
+	FONT-SIZE: 12px; FONT-FAMILY: Arial, sans-serif
+}
+.title {
+	FONT-WEIGHT: normal; FONT-SIZE: 24px; FONT-FAMILY: Arial, sans-serif
+}
+.subtitle {
+	FONT-WEIGHT: normal; FONT-SIZE: 15px; FONT-FAMILY: Arial, sans-serif
+}
+.boldtitle {
+	FONT-WEIGHT: normal; FONT-SIZE: 24px; FONT-FAMILY: "Arial Black", Arial, sans-serif
+}
+.pagesubtitle {
+	FONT-WEIGHT: normal; FONT-SIZE: 15px; LINE-HEIGHT: 18px; FONT-FAMILY: Arial, sans-serif
+}
+.pagetitle {
+	FONT-WEIGHT: normal; FONT-SIZE: 24px; LINE-HEIGHT: 24px; FONT-FAMILY: "Arial Black", Arial, sans-serif
+}
+UL {
+	MARGIN-TOP: 2px; FONT-SIZE: 12px; MARGIN-BOTTOM: 2px; PADDING-BOTTOM: 2px; PADDING-TOP: 2px; FONT-FAMILY: Arial, sans-serif
+}
+OL {
+	MARGIN-TOP: 2px; FONT-SIZE: 12px; MARGIN-BOTTOM: 2px; PADDING-BOTTOM: 2px; PADDING-TOP: 2px; FONT-FAMILY: Arial, sans-serif
+}
+H1 {
+	FONT-WEIGHT: normal; FONT-SIZE: 35px; FONT-FAMILY: Arial, sans-serif
+}
+H2 {
+	FONT-WEIGHT: normal; FONT-SIZE: 25px; FONT-FAMILY: Arial, sans-serif
+}
+H3 {
+	FONT-WEIGHT: bold; FONT-SIZE: 22px; FONT-FAMILY: Arial, sans-serif
+}
+H4 {
+	FONT-WEIGHT: normal; FONT-SIZE: 18px; FONT-FAMILY: Arial, sans-serif
+}
+.small {
+	FONT-SIZE: 11px; FONT-FAMILY: Verdana, sans-serif
+}
+.title1 {
+	FONT-SIZE: 25px; FONT-FAMILY: Arial, sans-serif
+}
+.tbdark {
+	BACKGROUND: #a3aab0
+}
+.tbwhite {
+	BACKGROUND: #ffffff
+}
+.tbimage1 {
+	BACKGROUND-IMAGE: url(//www.ibm.com/i/v11/tabs/tbimage1.gif)
+}
+.tbimage2 {
+	BACKGROUND-IMAGE: url(//www.ibm.com/i/v11/tabs/tbimage2.gif)
+}
+A.tbmainlink:link {
+	FONT-WEIGHT: bold; FONT-SIZE: 11px; COLOR: #333333; FONT-FAMILY: Verdana, Arial; TEXT-DECORATION: none
+}
+A.tbmainlink:visited {
+	FONT-WEIGHT: bold; FONT-SIZE: 11px; COLOR: #333333; FONT-FAMILY: Verdana, Arial; TEXT-DECORATION: none
+}
+A.tbmainlink:hover {
+	FONT-WEIGHT: bold; FONT-SIZE: 11px; COLOR: #333333; FONT-FAMILY: Verdana, Arial; TEXT-DECORATION: underline
+}
+A.tablink:link {
+	FONT-WEIGHT: normal; FONT-SIZE: 11px; COLOR: #333333; FONT-FAMILY: Verdana, Arial; TEXT-DECORATION: none
+}
+A.tablink:visited {
+	FONT-WEIGHT: normal; FONT-SIZE: 11px; COLOR: #333333; FONT-FAMILY: Verdana, Arial; TEXT-DECORATION: none
+}
+A.tablink:hover {
+	FONT-WEIGHT: normal; FONT-SIZE: 11px; COLOR: #333333; FONT-FAMILY: Verdana, Arial; TEXT-DECORATION: underline
+}
+.tblue {
+	FONT-WEIGHT: bold; FONT-SIZE: 12px; BACKGROUND: #6699cc; COLOR: #ffffff; FONT-FAMILY: Arial, sans-serif
+}
+.tdblue {
+	FONT-WEIGHT: bold; FONT-SIZE: 12px; BACKGROUND: #006699; COLOR: #ffffff; FONT-FAMILY: Arial, sans-serif
+}
+.tgray {
+	FONT-WEIGHT: bold; FONT-SIZE: 12px; BACKGROUND: #666666; COLOR: #ffffff; FONT-FAMILY: Arial, sans-serif
+}
+.bct {
+	FONT-WEIGHT: normal; FONT-SIZE: 10px; COLOR: #000000; FONT-FAMILY: Arial, sans-serif
+}
+.fnt {
+	FONT-SIZE: 11px; FONT-FAMILY: Verdana, sans-serif
+}
+.ast {
+	COLOR: #cc6600
+}
+.uslnav_plain {
+	FONT-SIZE: 12px; COLOR: #000000; FONT-FAMILY: Arial, sans-serif; TEXT-DECORATION: none
+}
+A.uslnav:link {
+	FONT-WEIGHT: normal; FONT-SIZE: 10px; COLOR: #000000; FONT-FAMILY: Arial, sans-serif; TEXT-DECORATION: none
+}
+A.uslnav:hover {
+	FONT-WEIGHT: normal; FONT-SIZE: 10px; COLOR: #000000; FONT-FAMILY: Arial, sans-serif; TEXT-DECORATION: underline
+}
+A.uslnav:visited {
+	FONT-WEIGHT: normal; FONT-SIZE: 10px; COLOR: #000000; FONT-FAMILY: Arial, sans-serif; TEXT-DECORATION: none
+}
+A.boxlink:link {
+	FONT-SIZE: 11px; COLOR: #006699; FONT-FAMILY: Arial, sans-serif; TEXT-DECORATION: none
+}
+A.boxlink:hover {
+	FONT-SIZE: 11px; COLOR: #006699; FONT-FAMILY: Arial, sans-serif; TEXT-DECORATION: underline
+}
+A.boxlink:visited {
+	FONT-SIZE: 11px; COLOR: #006699; FONT-FAMILY: Arial, sans-serif; TEXT-DECORATION: none
+}
+.modgray {
+	FONT-SIZE: 10px; COLOR: #999999; FONT-FAMILY: verdana; TEXT-DECORATION: none
+}
+A.mod:link {
+	FONT-SIZE: 10px; COLOR: #006699; FONT-FAMILY: verdana; TEXT-DECORATION: none
+}
+A.mod:visited {
+	FONT-SIZE: 10px; COLOR: #006699; FONT-FAMILY: verdana; TEXT-DECORATION: none
+}
+A.mod:hover {
+	FONT-SIZE: 10px; COLOR: #006699; FONT-FAMILY: verdana; TEXT-DECORATION: none
+}
+.solutgray {
+	BACKGROUND-COLOR: #f0f0f0
+}
+.stitlegray {
+	BACKGROUND-COLOR: #aab6ba
+}
+.shoptitlegray {
+	BACKGROUND-COLOR: #739caf
+}
+.bggray {
+	BACKGROUND-COLOR: #eeeeee
+}
+.liner {
+	BACKGROUND-COLOR: #cccccc
+}
+.whtitle {
+	FONT-WEIGHT: bold; FONT-SIZE: 11px; COLOR: #ffffff; FONT-FAMILY: Arial, sans-serif
+}
+.shboxgray {
+	BACKGROUND-COLOR: #ebebeb
+}
+.shboxtext {
+	FONT-SIZE: 10px; COLOR: #666666; FONT-FAMILY: Verdana, sans-serif
+}
+.soltext {
+	FONT-SIZE: 11px; COLOR: #666666; FONT-FAMILY: Arial, sans-serif
+}
+.bluetext {
+	FONT-WEIGHT: bold; FONT-SIZE: 9px; COLOR: #006699
+}
+.blktext {
+	FONT-WEIGHT: bold; FONT-SIZE: 9px; COLOR: #000000
+}
+.navbox {
+	FONT-WEIGHT: normal; FONT-SIZE: 9px; WIDTH: 90px; COLOR: #000000
+}
+A.servtext:link {
+	FONT-SIZE: 11px; COLOR: #006699; FONT-FAMILY: Arial, sans-serif; TEXT-DECORATION: none
+}
+A.servtext:hover {
+	FONT-SIZE: 11px; COLOR: #006699; FONT-FAMILY: Arial, sans-serif; TEXT-DECORATION: underline
+}
+A.servtext:visited {
+	FONT-SIZE: 11px; FONT-FAMILY: Arial, sans-serif; TEXT-DECORATION: none
+}
+.solutddbox {
+	FONT-WEIGHT: normal; FONT-SIZE: 10px; WIDTH: 200px; COLOR: #333333; FONT-FAMILY: verdana, sans-serif
+}
+.countrybox {
+	FONT-WEIGHT: normal; FONT-SIZE: 10px; WIDTH: 115px; COLOR: #333333; FONT-FAMILY: verdana, sans-serif
+}
+.find {
+	FONT-SIZE: 10px; COLOR: #666666; FONT-FAMILY: Verdana, sans-serif
+}
+A.rtb:link {
+	FONT-SIZE: 11px; COLOR: #006699; FONT-FAMILY: Arial, sans-serif; TEXT-DECORATION: none
+}
+A.rtb:hover {
+	FONT-SIZE: 11px; COLOR: #006699; FONT-FAMILY: Arial, sans-serif; TEXT-DECORATION: underline
+}
+A.rtb:visited {
+	FONT-SIZE: 11px; COLOR: #006699; FONT-FAMILY: Arial, sans-serif; TEXT-DECORATION: none
+}
+A.rtb2:link {
+	FONT-SIZE: 5px; COLOR: #006699; FONT-FAMILY: Arial, sans-serif; TEXT-DECORATION: none
+}
+A.rtb2:hover {
+	FONT-SIZE: 5px; COLOR: #006699; FONT-FAMILY: Arial, sans-serif; TEXT-DECORATION: underline
+}
+A.rtb2:visited {
+	FONT-SIZE: 5px; COLOR: #006699; FONT-FAMILY: Arial, sans-serif; TEXT-DECORATION: none
+}
+A.rtb3:link {
+	FONT-SIZE: 4px; COLOR: #006699; FONT-FAMILY: Arial, sans-serif; TEXT-DECORATION: none
+}
+A.rtb3:hover {
+	FONT-SIZE: 4px; COLOR: #006699; FONT-FAMILY: Arial, sans-serif; TEXT-DECORATION: underline
+}
+A.rtb3:visited {
+	FONT-SIZE: 4px; COLOR: #006699; FONT-FAMILY: Arial, sans-serif; TEXT-DECORATION: none
+}
+A.solutions_box:link {
+	FONT-SIZE: 11px; COLOR: #006699; FONT-FAMILY: Arial, sans-serif; TEXT-DECORATION: underline
+}
+A.solutions_box:hover {
+	FONT-SIZE: 11px; COLOR: #006699; FONT-FAMILY: Arial, sans-serif; TEXT-DECORATION: underline
+}
+A.solutions_box:visited {
+	FONT-SIZE: 11px; COLOR: #006699; FONT-FAMILY: Arial, sans-serif; TEXT-DECORATION: underline
+}
+IMG.align_top {
+	MARGIN-TOP: 3px
+}
+IMG.rt_pad {
+	MARGIN-TOP: 3px
+}
+IMG.navbull {
+	MARGIN-TOP: 5px
+}
+IMG.servbull {
+	MARGIN-TOP: 6px; MARGIN-RIGHT: 2px
+}
